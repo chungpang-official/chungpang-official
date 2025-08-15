@@ -27,7 +27,7 @@ A fun interactive game that challenges players to identify brands based on styli
 ## 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jasper-leung-axce3d2y/)
 - 🐙 [GitHub](https://github.com/chungpang-official)
-- ✉️ [Email](chungpang0109@gmail.com)
+- ✉️ chungpang0109@gmail.com
 
 ---
 
