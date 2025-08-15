@@ -6,7 +6,7 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 ### 🚀 Selected Projects
 #### 🤖 [AI Trading System](https://github.com/chungpang-official/ai-trading-system)
 ```plaintext
-| A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
+A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
 ```
 #### ♠️ [ParallelPokerEngine](https://github.com/chungpang-official/ParallelPokerEngine)
 ```plaintext
