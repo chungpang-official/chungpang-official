@@ -4,8 +4,8 @@ Deeply obsessed with **AI‑related technologies** — from Large Language Model
 I build systems that blend intelligence, speed, and reliability — turning abstract ideas into working products.
 
 ### 🚀 Selected Projects
-#### 🤖 [AI Trading System](https://github.com/chungpang-official/ai-trading-system)
-```plaintext
+#### 🤖 [AI Trading System (IN PROGRESS)](https://github.com/chungpang-official/ai-trading-system)
+```
 A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
 ```
 #### ♠️ [ParallelPokerEngine](https://github.com/chungpang-official/ParallelPokerEngine)
