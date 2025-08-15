@@ -1,5 +1,4 @@
 # Jasper Leung (@chungpang-official)
-__
 
 Deeply obsessed with **AI‑related technologies** — from Large Language Models to Agentic AI and end‑to‑end automation.  
 I build systems that blend intelligence, speed, and reliability — turning abstract ideas into working products.
