@@ -4,6 +4,7 @@ Deeply obsessed with **AI‑related technologies** — from Large Language Model
 I build systems that blend intelligence, speed, and reliability — turning abstract ideas into working products.
 
 ### Selected Projects
+
 #### [AI Trading System (IN PROGRESS)](https://github.com/chungpang-official/ai-trading-system)
 > A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
 
@@ -13,7 +14,9 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 #### [Smart‑Parking‑Management‑System](https://github.com/chungpang-official/Smart-Parking-Management-System)
 > A C‑based system for booking and managing smart parking resources with priority scheduling.
 
-#### [Multi-thread-Webserver](https://github.com/chungpang-official/)
+#### [Multi-thread-Webserver](https://github.com/chungpang-official/Multi-thread-Web-Server)
+> A high‑performance web server built with multithreading to handle concurrent client requests efficiently and reliably.
+> 
 #### [Banquet_DBMS](https://github.com/chungpang-official/Banquet_DBMS)
 > A database management system for banquet event planning, tracking reservations, menus, and resource allocations.
 
