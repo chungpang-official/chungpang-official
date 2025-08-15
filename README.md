@@ -8,8 +8,9 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 ## 🚀 Selected Projects
 
 ### 🤖 [AI Trading System](https://github.com/chungpang-official/ai-trading-system)
+,,,
 A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
-
+,,,
 ### ♠️ [ParallelPokerEngine](https://github.com/chungpang-official/ParallelPokerEngine)
 A multithreaded poker simulation engine for running large‑scale, parallelized game evaluations and strategy testing.
 
