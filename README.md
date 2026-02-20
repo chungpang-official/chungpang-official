@@ -5,6 +5,9 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 
 ### Selected Projects
 
+#### [Kaggle---House-Prices---Advanced-Regression-Techniques](https://github.com/chungpang-official/Kaggle---House-Prices---Advanced-Regression-Techniques)
+> Predict sales prices and practice feature engineering, RFs, and gradient boosting
+
 #### [AI Trading System (IN PROGRESS)](https://github.com/chungpang-official/ai-trading-system)
 > A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
 
