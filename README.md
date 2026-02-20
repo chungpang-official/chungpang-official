@@ -5,6 +5,9 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 
 ### Selected Projects
 
+### [AI-Powered-Computer-Science-Education-Platform](https://github.com/chungpang-official/AI-Powered-Computer-Science-Education-Platform)
+>  Integrating custom AI chatbot with advanced system prompts and RAG for real-time Q&A.
+
 #### [Kaggle---House-Prices---Advanced-Regression-Techniques](https://github.com/chungpang-official/Kaggle---House-Prices---Advanced-Regression-Techniques)
 > Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
