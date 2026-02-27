@@ -11,6 +11,9 @@ I build systems that blend intelligence, speed, and reliability — turning abst
 #### [Kaggle---House-Prices---Advanced-Regression-Techniques](https://github.com/chungpang-official/Kaggle---House-Prices---Advanced-Regression-Techniques)
 > Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
+#### [Command line-based Jungle Game](https://github.com/chungpang-official/Command-line-based-Jungle-Game)
+> A command-line implementation of the classic Jungle (Dou Shou Qi) board game, developed using object-oriented design principles and the MVC architectural pattern.
+
 #### [AI Trading System (IN PROGRESS)](https://github.com/chungpang-official/ai-trading-system)
 > A data‑driven cryptocurrency trading framework leveraging machine learning for strategy execution and backtesting.
 
